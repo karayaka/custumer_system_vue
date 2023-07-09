@@ -1,0 +1,3 @@
+UIprojeci olarak vuejs ts vuetify teknolojileri kullanılmıştr
+UI projesinde veri erişiminde axsios kütüphanesi kullanılmıştır!
+Validation işlemleri için vuetify kütühanesinin validation süreçleri kullanılmıştır
